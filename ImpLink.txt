@@ -1,0 +1,4 @@
+http://www.tutorialspoint.com/mysql/mysql-drop-tables.htm
+
+
+http://www.w3schools.com/php/php_mysql_select.asp

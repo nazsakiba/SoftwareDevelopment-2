@@ -1,0 +1,7 @@
+type open kore rice/veg/nonveg/drinks
+
+mathch kore/ sort kore 
+
+catagory
+
+sort

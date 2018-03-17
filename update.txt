@@ -1,0 +1,12 @@
+Menu check box use kore total cost add kora
+
+Show new customer:
+
+Credit transfer sucessfull howar por new customer show korbe
+jekhane cust_ID,E_mail,ADDRESS,CARD No,Delivary time,
+order details,
+total cost thakbe
+
+problem:
+
+More than one menu_id can not added in order table
